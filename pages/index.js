@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Coming Soon!" />
+        <Header title="Portfolio Website in Progress!" />
       </main>
 
       <Footer />
